@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - site/index.qmd
+
+website:
+  title: "ClimatFrance2050"
+  navbar:
+    left:
+      - text: Accueil
+        href: site/index.qmd

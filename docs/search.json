@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "site/index.html",
+    "href": "site/index.html",
+    "title": "ClimatFrance2050",
+    "section": "",
+    "text": "Bienvenue sur le site du projet ClimatFrance2050. Ce projet explore les émissions de CO₂ en France et les effets de la transition énergétique sur les risques de sécheresse d’ici 2050.\n\n\n\nVisualiser l’évolution des émissions de gaz à effet de serre\nÉtudier les politiques de transition énergétique\nPrédire les zones à risque de sécheresse en France\nProposer une interface interactive pour explorer les données\n\n\n\n\nLe projet s’appuie sur des données publiques, un modèle prédictif en Python, et des visualisations interactives intégrées dans ce site.\n\n\n\nRéalisé par Dossou Modeste AGOSSOU, étudiant en Master 1 Statistique et Science des Données (SSD) à la Faculté des Sciences de l’Universté de Montpellier."
+  },
+  {
+    "objectID": "site/index.html#objectifs",
+    "href": "site/index.html#objectifs",
+    "title": "ClimatFrance2050",
+    "section": "",
+    "text": "Visualiser l’évolution des émissions de gaz à effet de serre\nÉtudier les politiques de transition énergétique\nPrédire les zones à risque de sécheresse en France\nProposer une interface interactive pour explorer les données"
+  },
+  {
+    "objectID": "site/index.html#méthodologie",
+    "href": "site/index.html#méthodologie",
+    "title": "ClimatFrance2050",
+    "section": "",
+    "text": "Le projet s’appuie sur des données publiques, un modèle prédictif en Python, et des visualisations interactives intégrées dans ce site."
+  },
+  {
+    "objectID": "site/index.html#auteur",
+    "href": "site/index.html#auteur",
+    "title": "ClimatFrance2050",
+    "section": "",
+    "text": "Réalisé par Dossou Modeste AGOSSOU, étudiant en Master 1 Statistique et Science des Données (SSD) à la Faculté des Sciences de l’Universté de Montpellier."
+  }
+]
