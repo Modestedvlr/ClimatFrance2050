@@ -1,4 +1,4 @@
-# 🌍 ClimatFrance2050
+# Nom du projet : ClimatFrance2050
 
 Visualisation interactive des émissions de CO₂ et prédiction des sécheresses en France d’ici 2050
 
@@ -17,12 +17,17 @@ Ce projet vise à analyser l’évolution des émissions de gaz à effet de serr
 
 ## Structure du projet
 /ClimatFrance2050
-├── site/ # Pages du site web Quarto
-├── module/ # Code Python (data, modèle, visualisation)
-├── roadmap/ # Aperçu du projet à mi-parcours
-├── slider/ # Diaporama final 
-├── tests/ # Tests unitaires
-├── requirements.txt # Dépendances Python
+_site/ # Pages du site web Quarto
+
+_module/ # Code Python (data, modèle, visualisation)
+
+_roadmap/ # Aperçu du projet à mi-parcours
+
+_slider/ # Diaporama final 
+
+_tests/ # Tests unitaires
+
+_requirements.txt # Dépendances Python
 
 
 ## Sources de données
