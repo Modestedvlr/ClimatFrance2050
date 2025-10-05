@@ -1,12 +1,12 @@
 # 🌍 ClimatFrance2050
 
-*Visualisation interactive des émissions de CO₂ et prédiction des sécheresses en France d’ici 2050*
+Visualisation interactive des émissions de CO₂ et prédiction des sécheresses en France d’ici 2050
 
-## 🎯 Objectif
+## Objectif
 
 Ce projet vise à analyser l’évolution des émissions de gaz à effet de serre en France, à explorer les effets de la transition énergétique, et à prédire les zones susceptibles de subir des sécheresses d’ici 2050. Il s’appuie sur des données publiques et propose une interface web interactive.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - Python 3.11+
 - Quarto
@@ -15,8 +15,9 @@ Ce projet vise à analyser l’évolution des émissions de gaz à effet de serr
 - GitHub Pages (déploiement)
 - GitHub Actions (CI)
 
-## 📁 Structure du projet
-/ClimatFrance2050 ├── site/ # Pages du site web Quarto
+## Structure du projet
+/ClimatFrance2050
+├── site/ # Pages du site web Quarto
 ├── module/ # Code Python (data, modèle, visualisation)
 ├── roadmap/ # Aperçu du projet à mi-parcours
 ├── slider/ # Diaporama final 
@@ -24,7 +25,7 @@ Ce projet vise à analyser l’évolution des émissions de gaz à effet de serr
 ├── requirements.txt # Dépendances Python
 
 
-## 📊 Sources de données
+## Sources de données
 
 - [Météo-France](https://meteofrance.com)
 - [Drias – Les futurs du climat](https://www.drias-climat.fr)
@@ -32,7 +33,7 @@ Ce projet vise à analyser l’évolution des émissions de gaz à effet de serr
 - [OpenStreetMap](https://www.openstreetmap.org)
 - [Kaggle](https://www.kaggle.com)
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Modestedvlr/ClimatFrance2050.git
